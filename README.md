@@ -24,10 +24,13 @@ In this paper we propose a Task-wise Adaptive Learning Rate Method, named AdaTas
 Please cite our paper if you use this code.
 
 ```
-@inproceedings{adatask_aaai2023,
+@article{adatask_aaai2023,
   title={AdaTask: A Task-aware Adaptive Learning Rate Approach to Multi-task Learning},
   author={{Yang, Enneng and Pan, Junwei and Wang, Ximei and Yu, Haibin and Shen, Li and Chen, Xihua and Xiao, Lei and Jiang, Jie and Guo, Guibing},
-  booktitle={AAAI},
+  journal={Proceedings of the AAAI Conference on Artificial Intelligence}, 
+  volume={37},
+  number={9},
+  pages={10745-10753},
   year={2023}
 }
 
